@@ -30,5 +30,15 @@ Album  : Example Album
 Year   : 2023
 Genre  : Pop
 
+MP3-Tag-Reader
+│
+├── main_c_File.png
+├── Edit_C_File.png
+├── View_C_File.png
+├── Helper_output.png
+├── View_Output_File.png
+├── sample.mp3
+└── README.md
+
 ## Author
 Satti Bharat Sai Naga Babu
